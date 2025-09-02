@@ -61,7 +61,7 @@
 
 * [Linux Basics Commands](https://github.com/MaheshShukla1/Linux-Fundamentals/wiki/Linux-Bassics-Command)
 * [Linux Cheatsheet Quick Reference](https://github.com/MaheshShukla1/Linux-Fundamentals/wiki/Linux%E2%80%90cheatsheet)
-* [Linux Find Command Ultimate Guide](https://github.com/MaheshShukla1/Linux-Fundamentals-Advance-Notes/wiki/Linux-Find-Command:-Ultimate-Guide)
+* [Linux Find Command Ultimate Guide](https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Ultimate-Linux-Find-Command-Cheatsheet)
 * [Shell Scripting Masterclass Complete Linux Automation Guide](https://github.com/MaheshShukla1/Linux-Basics-to-Advanced-Complete-Commands-Scripting-System-Administration-Guide/wiki/Shell-Scripting-Masterclass-%F0%9F%8C%9F)
 
 ---
